@@ -27,8 +27,8 @@ I'm a web developer passionate about building website frontend. I enjoy solving 
 ## <img src="https://media.tenor.com/hgjdh1M4_G8AAAAj/peach-goma.gif" width="30"> GitHub Stats
 
 <p align="center" style="display: flex; flex-direction: column; align-items: center; gap: 1rem;">
-<img alt="endotsuki's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=endotsuki&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" style="height: 192px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=endotsuki&theme=dark&hide_border=true&bg_color=151515&title_color=f2f2f2&icon_color=79fe96theme=dark&hide_border=true&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" alt="Your GitHub streak" />
+<img alt="zxyren's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=zxyren&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" style="height: 192px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zxyren&theme=dark&hide_border=true&bg_color=151515&title_color=f2f2f2&icon_color=79fe96theme=dark&hide_border=true&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" alt="Your GitHub streak" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Endo&layout=compact&theme=radical" alt="Your most used languages" />
@@ -37,6 +37,6 @@ I'm a web developer passionate about building website frontend. I enjoy solving 
 ## <img src="https://media.tenor.com/5tYXnZk7vSsAAAAj/peach-goma.gif" width="30"> Repository Highlights
 
 ## <img src ="https://kawaiihoshi.com/wp-content/uploads/2023/07/1-peach-goma-animations.gif" width="30"> GitHub Trophies
-![](https://github-trophies.vercel.app/?username=endotsuki)
+![](https://github-trophies.vercel.app/?username=zxyren)
 
-<img src ="https://kawaiihoshi.com/wp-content/uploads/2023/07/24-peach-goma-animations.gif " width="30"> From me [Socheath](https://github.com/endotsuki)
+<img src ="https://kawaiihoshi.com/wp-content/uploads/2023/07/24-peach-goma-animations.gif " width="30"> From me [Socheath](https://github.com/zxyren)

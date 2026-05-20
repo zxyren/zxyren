@@ -31,7 +31,7 @@ I'm a web developer passionate about building website frontend. I enjoy solving 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zxyren&theme=dark&hide_border=true&bg_color=151515&title_color=f2f2f2&icon_color=79fe96theme=dark&hide_border=true&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" alt="Your GitHub streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Endo&layout=compact&theme=radical" alt="Your most used languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zyren&layout=compact&theme=radical" alt="Your most used languages" />
 </p>
 
 ## <img src="https://media.tenor.com/5tYXnZk7vSsAAAAj/peach-goma.gif" width="30"> Repository Highlights
